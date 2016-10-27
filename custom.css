@@ -23,6 +23,17 @@ h1, h2, h3, h4 {
     font-family: 'Playfair Display', serif;
     }
 
+
+.down-arrow, a {
+    margin-top: 25px;
+    font-size: 150%;
+    color: #ffffff;
+}
+
+.down-arrow, a:hover {
+    color: #ffff18;
+}
+
 i {
     font-size: 200%;
     float: right;
@@ -38,6 +49,8 @@ i {
     text-align: center;
     color: #ffffff;
     text-shadow: 2px 2px #111111;
+    padding-top: 25%;
+    padding-bottom: 25%;
 
 }
 
