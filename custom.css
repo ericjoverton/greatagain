@@ -10,7 +10,7 @@ body {
     font-family: 'Fauna One', serif;
     line-height: 1.6;
     background-color: #222;
-    background-image: url("images/skewed_print.png");
+    background-image: url("images/dark_mosaic.png");
     background-repeat: repeat;
 }
 
@@ -23,6 +23,11 @@ h1, h2, h3, h4 {
     font-family: 'Playfair Display', serif;
     }
 
+i {
+    font-size: 200%;
+    float: right;
+    margin-bottom: 15px;
+}
 
 .jumbotron {
     background-image: url("images/header.jpg");
@@ -45,11 +50,22 @@ h1, h2, h3, h4 {
 
 #main {
         padding-left: 30px;
+        margin-bottom: 60px;
         background-color: #ddd;
         margin-top: 20px;
         padding-top: 40px;
         max-width: 750px;
 
+}
+
+.footer {
+    color: #dddddd;
+    font-size: 80%;
+}
+
+#copyright {
+    margin-top: 20px;
+    text-align: center;
 }
 
 @media (max-width: 700px) {
