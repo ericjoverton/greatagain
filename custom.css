@@ -24,13 +24,13 @@ h1, h2, h3, h4 {
     }
 
 
-.down-arrow, a {
+.down-arrow a {
     margin-top: 25px;
     font-size: 150%;
     color: #ffffff;
     }
 
-.down-arrow, a:hover {
+.down-arrow a:hover {
     color: #ffff18;
 }
 
