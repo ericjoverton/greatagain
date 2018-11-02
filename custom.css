@@ -54,6 +54,18 @@ i {
 
 }
 
+.jumbotron2 {
+    background-image: url("images/addendum.jpg");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 2px 2px #111111;
+    padding-top: 25%;
+    padding-bottom: 25%;
+
+}
 
 .illustration {
     width: 98%;
